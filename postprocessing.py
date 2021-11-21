@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 # ghPagesURL = "https://conoro.github.io/tiktok-rss-flat/"
 
 # Custom Domain
-ghPagesURL = "https://tiktokrss.conoroneill.com/"
+ghPagesURL = "https://drekzikko.github.io/tiktok-rss-flat-1/"
 
 api = TikTokApi.get_instance()
 
